@@ -1,0 +1,13 @@
+<suite name = "Amazon Suites">
+    <test name = "Amazon test">
+        <classes>
+            <class name = "base.Home">
+
+            </class>
+
+        </classes>
+
+    </test>
+
+
+</suite>
